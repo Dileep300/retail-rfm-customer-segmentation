@@ -1,0 +1,8 @@
+segment,customers,came_back,avg_net_spend_after,total_net_spend_after,repurchase_rate_pct,ci_low_pct,ci_high_pct,pct_of_future_spend
+Champions,680,604,2346.3,1595485.6,88.8,86.2,91.0,62.1
+Loyal,474,340,666.1,315724.9,71.7,67.5,75.6,12.3
+New / Promising,462,248,443.0,204666.4,53.7,49.1,58.2,8.0
+About to Sleep,402,192,302.7,121696.9,47.8,42.9,52.6,4.7
+At Risk,116,66,325.6,37764.7,56.9,47.8,65.5,1.5
+Can't Lose,54,38,791.1,42718.7,70.4,57.2,80.9,1.7
+Hibernating,1162,428,216.4,251478.4,36.8,34.1,39.6,9.8

@@ -1,0 +1,8 @@
+step,rows_remaining,rows_removed
+raw rows,541909,0
+drop bad-debt adjustment invoices (InvoiceNo starts with A),541906,3
+split off cancellation lines (kept in returns file),532618,9288
+drop rows with no CustomerID,397924,134694
+drop exact duplicate rows,392732,5192
+drop Quantity <= 0 or UnitPrice <= 0,392692,40
+"drop non-product stock codes (postage, fees, manual entries)",391150,1542

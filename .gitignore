@@ -1,0 +1,9 @@
+# Large intermediate files, recreated by src/01_clean.py
+data/processed/sales_clean.csv.gz
+data/processed/returns_clean.csv.gz
+
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
